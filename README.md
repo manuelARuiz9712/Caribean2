@@ -1,7 +1,6 @@
 # WebSite Caribean Service
 
-Sitio web desarrollado por Lavel Soft 2018.
-Cartagena /Colombia
+Sitio web.
 
 Equipo:
 --------------------
