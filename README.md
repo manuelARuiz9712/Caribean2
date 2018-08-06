@@ -1,6 +1,6 @@
 # WebSite Caribean Service
 
-Sitio web
+Sitio web.
 
 Equipo:
 --------------------
