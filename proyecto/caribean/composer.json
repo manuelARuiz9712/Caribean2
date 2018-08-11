@@ -1,0 +1,14 @@
+{
+    "name": "vendor/caribean",
+    "description": "Description of project caribean.",
+    "authors": [
+        {
+            "name": "Furiad",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "wasico/sdk-php": "^0.5.5",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
